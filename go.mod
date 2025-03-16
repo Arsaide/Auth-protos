@@ -1,1 +1,1 @@
-module Auth-protos
+module github.com/Arsaide/Auth-protos
