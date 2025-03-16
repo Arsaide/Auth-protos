@@ -1,1 +1,1 @@
-module protos
+module Auth-protos
